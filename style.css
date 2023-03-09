@@ -1,0 +1,69 @@
+body {
+    text-align: center;
+    font-family: 'Inconsolata', monospace;
+}
+
+#darth {
+   width: 100%;
+    background-color: rgb(150, 138, 138);
+    position: fixed;
+    list-style: none;
+    margin-right: 0px;
+    z-index: 100;
+    margin-top:0px;
+
+
+}
+
+
+
+
+
+
+
+#yoda {
+    width: 200px;
+    border-radius: 25%;
+}
+
+
+
+#baby {
+    background: linear-gradient(rgb(67, 22, 118) 0%, rgb(191, 180, 215) 100%);
+    padding: 20px;
+    z-index: 9;
+    font-family: 'Cinzel Decorative', cursive;
+
+}
+
+
+.vader {
+    float: left;
+    color: rgb(17, 24, 54);
+    padding-top: 5;
+    padding-bottom: 9;
+    padding-left: 9;
+    padding-right: 9;
+
+
+
+
+}
+
+
+
+#luke {
+    font-family: 'Inconsolata', monospace;
+
+
+}
+
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 120px;
+    margin: 8px auto;
+
+
+}
